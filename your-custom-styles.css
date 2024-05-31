@@ -1,8 +1,7 @@
 /* your-custom-styles.css */
 
-/* Remove the green outline from the chatbot popup */
+/* Apply a custom outline with the color #990003 to the chatbot popup */
 .vg-popup {
-    outline: none !important;
-    border: none !important;
-    box-shadow: none !important;
+    outline: 2px solid #990003 !important;
 }
+
